@@ -8,7 +8,9 @@ This set of Matlab scripts are provided to enable the replication and usage of t
 <br>**Authors**: Joel Barajas, Ram Akella, Marius Holtan, Aaron Flores
 <br>**Affiliations**: UC Santa Cruz, UC Berkeley, AOL Palo Alto
 
-Aggregate data counts provided by tables 4 and 8 are integrated with the code. These code files are provided as of November 2015. 
+Aggregate data counts provided by tables 4 and 8 are integrated with the code. 
+
+See the [wiki](./../../wiki) for more documentation details and description of each function.
 
 Feel free to send me questions through any of my communication channels (Linkedin, my personal web page, or Github)
 
