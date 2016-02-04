@@ -36,7 +36,7 @@
 % Alternatively, you can uncomment "str" assignment and the "save" lines
 % to save intermediate fitting steps
 
-function [beta_samples, gamma_d0_samples, gamma_n_samples]=...
+function [beta_samples, gamma_d0_samples, gamma_d1_samples, gamma_n_samples]=...
     CE_mixture_features_weight(counters_trans,N_burnin,N_samples,alpha_0)
 
 % alpha_0 = 0.5;
